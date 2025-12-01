@@ -38,7 +38,7 @@ const projects = [
     description:
       "A full-stack online shopping platform with product browsing, user authentication, and a smooth cart-to-checkout flow built using the MERN stack.",
       image: "/projects/MERN.png",
-    tags: ["HTML", "CSS", "JavaScript"],
+    tags: ["MongoDB", "Express.js", "React", "Next.js"],
     URL: "https://github.com/claytonkoh/MERN-Ecommerce",
     Github: "https://github.com/claytonkoh/MERN-Ecommerce",
   },
