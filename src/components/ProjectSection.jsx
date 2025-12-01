@@ -32,6 +32,16 @@ const projects = [
     URL: "https://github.com/claytonkoh/CateringZ",
     Github: "https://github.com/claytonkoh/CateringZ",
   },
+  {
+    id: 4,
+    title: "Full Stack E-Commerce Website",
+    description:
+      "A full-stack online shopping platform with product browsing, user authentication, and a smooth cart-to-checkout flow built using the MERN stack.",
+      image: "/projects/MERN.png",
+    tags: ["HTML", "CSS", "JavaScript"],
+    URL: "https://github.com/claytonkoh/MERN-Ecommerce",
+    Github: "https://github.com/claytonkoh/MERN-Ecommerce",
+  },
   
 ];
 
